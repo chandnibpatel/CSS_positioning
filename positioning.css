@@ -1,0 +1,38 @@
+body{
+    width: 100%;
+}
+.details{
+    margin-left: 80px;
+  
+}
+.p1{
+    margin-right: 80px;
+}
+.p2{
+    margin-right: 80px;
+    margin-left: 80px;
+}
+.box1{
+    position: fixed;
+    left:0px;
+    top:1px;
+    padding: 5px;
+    height: 90px;
+    background-color: aliceblue;
+    text-align: center;
+}
+.box2{
+    position: relative;
+    top: 33%;
+    left: 80px;
+    padding:50px;
+    width: 500px;
+    background-color: aquamarine;
+}
+.box3{
+    position: absolute;
+    top: 10%;
+    left: 300px;
+    padding:50px;
+    background-color: #777;
+}
